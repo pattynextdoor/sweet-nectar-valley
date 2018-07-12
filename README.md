@@ -1,6 +1,9 @@
 # Sweet Nectar Valley
 > By Wendy Li and Patrick Tumbucon
 
+<img src="https://i.imgur.com/cdMeNDZ.png" alt="Sweet Nectar Valley house">
+<img src="https://image.ibb.co/iewgST/2.png" alt="Sweet Nectar Valley trees">
+
 ## Motivation and Background
 
 One of our favorite games is Stardew Valley. One of the best elements of the game is that there is no urgency to finish things by a certain deadline. There are little to no punishments for your behavior in the game. Even though this is the case, it is still extremely fun to play and very relaxing. Stardew Valley is a 2.5D game set on a farm scene that you get to design the way you want. Recreating the game in VR would make basic gameplay elements even more fun. 
